@@ -1,7 +1,3 @@
-Sure! Let's break down **LangGraph** in simple terms so you can easily explain it to someone who isn't familiar with technical jargon. We'll go through what LangGraph is, its main features, and why it's beneficial compared to other tools.
-
----
-
 ### **What is LangGraph?**
 
 **LangGraph** is a tool (or library) that helps developers create complex applications using Large Language Models (LLMs), like the one you're interacting with now. Think of it as a special set of building blocks that makes it easier to build smart systems where multiple parts (or "actors") work together, remember things, and make decisions.
